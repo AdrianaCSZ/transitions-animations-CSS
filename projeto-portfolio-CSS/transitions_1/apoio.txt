@@ -1,0 +1,11 @@
+
+
+-Projeto: Site utilizando transitions e animação  em card com CSS;
+-Projeto: Desenvolvendo um menu hamburguer e morphing menu com CSS transitions;
+-Projeto: Landing page com bacground que se movimenta, trocando de cor somente no CSS sem JAVA SCRIPT, utilizando as regras dos Keyframes;
+-Projeto: Ícone de chat flutuande no CSS;
+-Projeto: Portifólio responsivo utilizando cards; posicionameno de texto; menu animado; Landing page com bacground que se meche trocando de cor com CSS,  
+com versão mobile quanto no desktoop;
+
+Bootcamp realizado da DIO: TQI Full Stack Developer - Junho/2022
+Ministrado por Gabriela Pinheiro (Frontend Developer)
